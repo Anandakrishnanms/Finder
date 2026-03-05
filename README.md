@@ -41,22 +41,45 @@ The framework gathers subdomains from multiple sources, removes duplicates, and 
 
 ---
 
-## 💻 Installation
+## ## 💻 Installation
 
+### 1. Clone the repository
 
-Clone repository
-
+```
 git clone https://github.com/Anandakrishnanms/Finder.git
-
 cd Finder
+```
 
-Run installer
+### 2. Run the installer
 
+```
 chmod +x install.sh
 sudo ./install.sh
+```
 
-## Usage
+---
 
+## ▶ Usage
+
+### Run the tool
+
+```
 python3 finder.py
+```
 
-Enter target domain:
+### Enter your target domain when prompted
+
+```
+Enter target domain: example.com
+```
+
+---
+
+## 🔎 What Finder Does
+
+The tool will automatically:
+
+• Enumerate subdomains using multiple tools
+• Remove duplicate results
+• Check which subdomains are live
+• Display clean output in the terminal
