@@ -1,3 +1,11 @@
+
+
+# 🔎 **Finder0.1**  
+<img src="finde logo.png">
+🔍 FINDER is an automated reconnaissance framework designed to discover and validate live subdomains. 
+
+
+
 # 🔎 FINDER
 
 Professional Subdomain Recon Framework
