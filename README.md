@@ -90,3 +90,14 @@ Enter target domain: example.com
   • Check which subdomains are live
   • Display clean output in the terminal
  
+## 🤝 Contributing
+
+Contact me via [LinkedIn](https://www.linkedin.com/in/anandakrishnan-ms-9a66b6375) for collaborations.  
+
+---
+
+## ⭐ Star the Repository
+
+If you find ShadowCrypt useful, please **⭐ star the repository** to support development.  
+
+🦾 **Unleash ShadowCrypt, explore responsibly!**
