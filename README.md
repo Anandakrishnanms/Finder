@@ -85,9 +85,8 @@ Enter target domain: example.com
 
 ## 🔎 What Finder Does
 
-The tool will automatically:
-
-• Enumerate subdomains using multiple tools
-• Remove duplicate results
-• Check which subdomains are live
-• Display clean output in the terminal
+  • Enumerate subdomains using multiple tools
+  • Remove duplicate results
+  • Check which subdomains are live
+  • Display clean output in the terminal
+ 
